@@ -1,0 +1,6 @@
+C:\Users\sbiswal\Documents\GitHub\LinqDefender\LINQDefender\LINQDefender\bin\Debug\LINQDefender.dll
+C:\Users\sbiswal\Documents\GitHub\LinqDefender\LINQDefender\LINQDefender\bin\Debug\LINQDefender.pdb
+C:\Users\sbiswal\Documents\GitHub\LinqDefender\LINQDefender\LINQDefender\obj\Debug\LINQDefender.csprojAssemblyReference.cache
+C:\Users\sbiswal\Documents\GitHub\LinqDefender\LINQDefender\LINQDefender\obj\Debug\LINQDefender.csproj.CoreCompileInputs.cache
+C:\Users\sbiswal\Documents\GitHub\LinqDefender\LINQDefender\LINQDefender\obj\Debug\LINQDefender.dll
+C:\Users\sbiswal\Documents\GitHub\LinqDefender\LINQDefender\LINQDefender\obj\Debug\LINQDefender.pdb
